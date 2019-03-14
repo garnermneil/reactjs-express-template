@@ -1,1 +1,1 @@
-# reactjs-express-template
+# reactjs-express-ts-template
